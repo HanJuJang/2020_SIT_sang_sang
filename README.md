@@ -17,6 +17,8 @@ https://medium.com/coloredfeather/generating-human-faces-using-adversarial-netwo
 
 https://research.sualab.com/introduction/practice/2019/05/08/generative-adversarial-network.html - DCGAN 
 
+https://m.blog.naver.com/laonple/221201915691
+
 
 
 Papers:
