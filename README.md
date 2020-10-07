@@ -1,5 +1,6 @@
 # 2020_SIT_sang_sang
 Scribbling about the assagnment
+GOAL : WORD TO CARTOON
 
 
 Explanations:
